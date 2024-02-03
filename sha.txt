@@ -1,0 +1,8 @@
+Variant: debug
+Config: debug
+Store: C:\Users\bhawe\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 88:43:45:7E:29:1E:BA:BC:A4:BE:F4:19:39:E6:03:F7
+SHA1: F8:96:FD:25:05:32:85:15:F3:74:FC:5F:7C:4C:BC:93:12:D9:D9:31
+SHA-256: E6:87:96:3D:5C:F0:41:7D:D9:85:AB:1C:0C:7C:C3:70:5C:F6:47:54:95:7E:0C:A0:E5:60:A0:E8:9A:C6:8B:B9
+Valid until: Sunday, February 12, 2051

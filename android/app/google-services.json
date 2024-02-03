@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864341362523",
+    "project_id": "clip-up",
+    "storage_bucket": "clip-up.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864341362523:android:fd670d722aa2539fa7fc7e",
+        "android_client_info": {
+          "package_name": "com.example.video_post"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFmLXwfRyj7ona0763-P3F66IF3EUvVGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
